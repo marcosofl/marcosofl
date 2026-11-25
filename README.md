@@ -2,13 +2,17 @@
 
 <p align="center"><strong>Desenvolvimento web</strong></p>
 <p align="center">JavaScript · TypeScript · React</p>
-<p align="center">Aplicações web e protótipos que rodam no navegador.</p>
+<p align="center">Desenvolvo aplicações web da ideia à publicação, com interfaces interativas e verificações automatizadas.</p>
 
 ---
 
 ## Sobre mim
 
-Desenvolvo interfaces para a web e publico demonstrações que podem ser testadas no navegador. Uso Git para versionar meus projetos e GitHub Actions para automatizar verificações de código.
+Desenvolvo aplicações web com React e TypeScript. Trabalho com interfaces interativas, navegação entre telas, validação de dados e integração com serviços. Também uso HTML, CSS e JavaScript para criar protótipos e demonstrações que rodam direto no navegador.
+
+Uso Git para acompanhar a evolução dos projetos e GitHub Actions para automatizar verificações. A validação de tipos e os testes automatizados ajudam a encontrar problemas cedo e a revisar mudanças com mais confiança.
+
+Neste perfil, reúno meus projetos públicos com acesso ao código-fonte e, quando disponível, à demonstração. Assim, você pode testar cada projeto e ver como ele foi construído.
 
 ---
 
