@@ -1,14 +1,14 @@
 <h1 align="center">Marcos V.</h1>
 
-<p align="center"><strong>Desenvolvimento web</strong></p>
+<p align="center"><strong>Desenvolvedor Full Stack</strong></p>
 <p align="center">JavaScript · TypeScript · React</p>
-<p align="center">Desenvolvo aplicações web da ideia à publicação, com interfaces interativas e verificações automatizadas.</p>
+<p align="center">Crio aplicações web de ponta a ponta, da interface à integração de dados e à publicação.</p>
 
 ---
 
 ## Sobre mim
 
-Desenvolvo aplicações web com React e TypeScript. Trabalho com interfaces interativas, navegação entre telas, validação de dados e integração com serviços. Também uso HTML, CSS e JavaScript para criar protótipos e demonstrações que rodam direto no navegador.
+Atuo no desenvolvimento full stack de aplicações web. No front-end, construo interfaces interativas com React e TypeScript. Na integração com serviços, trabalho com fluxos de dados e validação das informações. Também uso HTML, CSS e JavaScript para criar protótipos e demonstrações que rodam direto no navegador.
 
 Uso Git para acompanhar a evolução dos projetos e GitHub Actions para automatizar verificações. A validação de tipos e os testes automatizados ajudam a encontrar problemas cedo e a revisar mudanças com mais confiança.
 
